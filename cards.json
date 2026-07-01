@@ -15753,9 +15753,10 @@
         ],
         "rarity": "Uncommon",
         "effect": [
-            "When you play this card, discard any Match in play (nobody gets the prize). Your opponent can't use Actions to play Matches.",
-            "Your opponent skips a total of 4 Actions. Reward: Your opponent may discard a Match in play. They may put a Match from their discard pile into play."
+            "When you play this card, discard any Match in play (nobody gets the prize). Your opponent can't use Actions to play Matches."
         ],
+        "toSolve": "Your opponent skips a total of 4 Actions.",
+        "reward": "Your opponent may discard a Match in play. They may put a Match from their discard pile into play.",
         "setName": "Prisoner of Azkaban",
         "releaseDate": "11-2021",
         "imgSrc": "DementorsOnThePitch.png",
